@@ -1,0 +1,10 @@
+.text-center{
+    text-align: center;
+}
+.input{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  margin-left: 10px;
+}
